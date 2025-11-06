@@ -3,10 +3,12 @@ import { Button } from "@/app/components/tailwindui/button";
 
 export default function Page() {
   return (
-    <div className="container max-w-3xl">
+    <div className="container max-w-3xl mx-auto">
       <p className="text-2xl mb-16">Properties List</p>
       <div className="flex justify-end mb-8">
-        <Button className="w-48">Add Property</Button>
+        <Button className="w-48" href="/leasing/property/add">
+          Add Property
+        </Button>
       </div>
 
       <div className="flex flex-col mb-8">

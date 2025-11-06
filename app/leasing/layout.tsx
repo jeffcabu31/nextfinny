@@ -9,16 +9,13 @@ import {
   UserIcon,
 } from "@heroicons/react/16/solid";
 import {
-  Cog6ToothIcon,
   HomeIcon,
+  HomeModernIcon,
   InboxIcon,
   MagnifyingGlassIcon,
   MegaphoneIcon,
-  Square2StackIcon,
-  TicketIcon,
-  HomeModernIcon,
-  UserGroupIcon,
   RectangleGroupIcon,
+  UserGroupIcon,
 } from "@heroicons/react/20/solid";
 import { Avatar } from "../components/tailwindui/avatar";
 import {
